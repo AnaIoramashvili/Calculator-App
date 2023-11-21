@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Calculator App
-//
-//  Created by Ana on 11/16/23.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
